@@ -6,7 +6,7 @@ image:
   repository: abhay2023/sa-frontend
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "11"
+  tag: "12"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
